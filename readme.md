@@ -1,4 +1,4 @@
-# Three.js Journey
+# Three.js Journey - Haunted Catholic Cemetery Castle 🏰
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
